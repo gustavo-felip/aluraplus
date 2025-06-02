@@ -180,7 +180,7 @@ body{
   color: var(--cor-de-fundo);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 883px) {
   .container{
     display: block;
     background-image:none ;
